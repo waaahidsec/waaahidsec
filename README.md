@@ -1,5 +1,5 @@
 # 💫 About Me:
-| Tech Enthusiast | Cybersecurity researcher | Audiophile | Rationalist |
+| ./task.sh HACK ⚡ |
 
 
 ## 🌐 Socials:
